@@ -1,2 +1,2 @@
 # pgex
-A distributed postgresql with extensions
+A distributed postgresql with raft and extensions
